@@ -1,0 +1,28 @@
+
+D:\2019ICT72\Parallel computing\Practical1\x64\Debug>mpiexec -n 8 Practical1.exe
+
+Hello world ........
+My pid = 3
+No of Process = 8
+Hello world ........
+My pid = 2
+No of Process = 8
+Hello world ........
+My pid = 0
+No of Process = 8
+Hello world ........
+My pid = 4
+No of Process = 8
+Hello world ........
+My pid = 1
+No of Process = 8
+Hello world ........
+My pid = 5
+No of Process = 8
+Hello world ........
+My pid = 7
+No of Process = 8
+Hello world ........
+My pid = 6
+No of Process = 8
+D:\2019ICT72\Parallel computing\Practical1\x64\Debug>

@@ -1,0 +1,7 @@
+﻿Source.obj : error LNK2019: unresolved external symbol _MPI_Comm_size referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _MPI_Comm_rank referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _MPI_Init referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _MPI_Finalize referenced in function _main
+C:\Program Files\MPICH2\lib\cxx.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Program Files\MPICH2\lib\mpi.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\2019ICT72\Parallel computing\Practical2\Debug\Practical2.exe : fatal error LNK1120: 4 unresolved externals

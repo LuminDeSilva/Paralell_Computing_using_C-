@@ -1,0 +1,20 @@
+
+C:\Users\User>mpiexec -register
+account (domain\user) [CL1-62\User]: CL1-62\user
+password:
+confirm password:
+Password encrypted into the Registry.
+
+C:\Users\User>mpiexec -register
+account (domain\user) [CL1-62\User]: CL1-62\user
+password:
+confirm password:
+Password encrypted into the Registry.
+
+C:\Users\User>mpiexec -validate
+SUCCESS
+
+C:\Users\User>
+
+
+
