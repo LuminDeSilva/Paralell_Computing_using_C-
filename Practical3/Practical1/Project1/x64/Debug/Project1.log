@@ -1,0 +1,4 @@
+﻿  Practical1.cpp
+D:\2019ict72\New folder\Practical1\Project1\Practical1.cpp(10,6): warning C4101: 'send': unreferenced local variable
+D:\2019ict72\New folder\Practical1\Project1\Practical1.cpp(11,6): warning C4101: 'recieve': unreferenced local variable
+  Project1.vcxproj -> D:\2019ict72\New folder\Practical1\Project1\x64\Debug\Project1.exe

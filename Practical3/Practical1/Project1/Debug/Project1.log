@@ -1,0 +1,12 @@
+﻿  Practical1.cpp
+D:\2019ict72\New folder\Practical1\Project1\Practical1.cpp(10,6): warning C4101: 'send': unreferenced local variable
+D:\2019ict72\New folder\Practical1\Project1\Practical1.cpp(11,6): warning C4101: 'recieve': unreferenced local variable
+Practical1.obj : error LNK2019: unresolved external symbol _MPI_Send referenced in function _main
+Practical1.obj : error LNK2019: unresolved external symbol _MPI_Recv referenced in function _main
+Practical1.obj : error LNK2019: unresolved external symbol _MPI_Comm_size referenced in function _main
+Practical1.obj : error LNK2019: unresolved external symbol _MPI_Comm_rank referenced in function _main
+Practical1.obj : error LNK2019: unresolved external symbol _MPI_Init referenced in function _main
+Practical1.obj : error LNK2019: unresolved external symbol _MPI_Finalize referenced in function _main
+C:\Program Files\MPICH2\lib\cxx.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Program Files\MPICH2\lib\mpi.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\2019ict72\New folder\Practical1\Project1\Debug\Project1.exe : fatal error LNK1120: 6 unresolved externals
