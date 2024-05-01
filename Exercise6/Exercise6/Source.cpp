@@ -15,7 +15,7 @@ int main() {
 	MPI_Comm_rank(MPI_COMM_WORLD, &pid);
 	MPI_Status status;
 	if (pid == 0) {
-		char send[50] = "Hello";
+		char send[50] = "Hello";  
 		MPI_Send(&send,50, MPI_CHAR, 1, 50, MPI_COMM_WORLD);
 		printf("My process id is %d and I'm sender to 1. Message is %s\n", pid,send);
 		char rec_msg[50];
